@@ -1,4 +1,4 @@
-# -Forest-Cover-Type-Analysis-Phase-1
+# Forest_Cover_Type_Analysis_Phase_1
 
 Dataset: [(https://www.kaggle.com/c/forest-cover-type-prediction)]
 
@@ -6,7 +6,7 @@ Dataset: [(https://www.kaggle.com/c/forest-cover-type-prediction)]
 
 <ins>*Forest Cover Type By Elevation*</ins>
 
-![This is an image](https://github.com/jackfrost68/Wayfair-/blob/180c585b433e256cb2115b3245d058af85418810/Screenshot%202022-11-13%20at%207.50.08%20PM.png)
+![This is an image](https://github.com/jackfrost68/Wayfair-/blob/180c585b433e256cb2115b3245d058af85418810/Screenshot%202022-11-13%20at%207.50.08%20PM.png](https://github.com/jackfrost68/-Forest-Cover-Type-Analysis-Phase-1/blob/e3bb10dae3ee06f368e48a4fd224298dd27a50be/Forest%20Cover%20Type%20By%20Elevation.png](https://github.com/jackfrost68/-Forest-Cover-Type-Analysis-Phase-1/blob/35ee9c3aff2e01ef898cee59b1bce253a280d564/Forest%20Cover%20Type%20By%20Elevation%20(Cleaned)%20.png)
 
 Spruce/Fir cover types are more prevalent in higher elevations and Cottonwood/Willow in lower altitudes. We could infer that Spruce/Fir trees can survive in harsher conditions where the elevation is high and temperatures are lower, while Cottonwood/Willow trees thrive in regions of lower altitude with higher humidity levels. 
 
@@ -19,7 +19,7 @@ From the visualization above, Wilderness Area 3 has the most number of samples w
 
 <ins>*Forest Cover Type By Horizontal Distance To Hydrology:*</ins>
 
-![This is an image](https://github.com/jackfrost68/Wayfair-/blob/180c585b433e256cb2115b3245d058af85418810/Screenshot%202022-11-13%20at%207.50.08%20PM.png)
+![This is an image]([https://github.com/jackfrost68/Wayfair-/blob/180c585b433e256cb2115b3245d058af85418810/Screenshot%202022-11-13%20at%207.50.08%20PM.png](https://github.com/jackfrost68/-Forest-Cover-Type-Analysis-Phase-1/blob/35ee9c3aff2e01ef898cee59b1bce253a280d564/Forest%20Cover%20Type%20By%20Horizontal%20Distance%20to%20Hydrology.png))
 
 The horizontal distance to hydrology is highest for Krummholz and lowest for Cottonwood/Willow forest cover types. We can infer that Krummholz and Lodgepole Pine trees can grow farther away from water bodies whereas Cottonwood/willow and Douglas-fir are more present nearer to lakes, rivers or reservoirs. 
 
