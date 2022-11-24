@@ -1,8 +1,6 @@
-# Forest_Cover_Type_Analysis_Phase_1
+# Exploratory Data Analysis of the Forest Cover Type Dataset
 
 Dataset: [(https://www.kaggle.com/c/forest-cover-type-prediction)]
-
-# Exploratory Data Analysis of the Forest Cover Type Dataset
 
 <ins>*Forest Cover Type By Elevation*</ins>
 
